@@ -1,1 +1,1 @@
-push button, receive word count via AppleScript.
+Push button, receive word count via AppleScript quick action.
